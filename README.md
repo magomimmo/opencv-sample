@@ -1,6 +1,8 @@
 ## opencv-sample
 
-just playing around
+just playing around.
+
+just remember to locally install the jars as a repo with lein-localrepo plugin
 
 ## License
 
